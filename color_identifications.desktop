@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec="/home/thedarkcoder/Desktop/Projects/color_identification/tkinter_demo.py"
+Name=Color_Identification
+Icon=/home/thedarkcoder/Desktop/Projects/color_identification/images.png
